@@ -19,4 +19,4 @@ python3 DSO_observation_planning.py --tonight --catalogue Messier --moon --confi
 ```
 may look like this:
 
-![Screenshot of PDF-report](https://github.com/yetanothergithubaccount/DSObest_time/blob/master/pdfreportscreenshot.png)
+![Screenshot of PDF-report](https://github.com/yetanothergithubaccount/DSObest_time/blob/main/pdfreportscreenshot.png)
